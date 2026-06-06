@@ -2,7 +2,7 @@
 
 ### 🚀 Aspiring Full Stack Developer & UI/UX Designer
 
-📍 Pune, Maharashtra, India
+📍 Nagpur, Maharashtra, India
 
 💡 Passionate about building user-friendly websites and modern UI/UX experiences.
 
