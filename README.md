@@ -45,12 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshall09-hub&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshall09-hub&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Building Full Stack Web Applications
