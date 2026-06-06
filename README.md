@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Harshal Sarode
 
-<!--
-**Harshall09-hub/Harshall09-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full Stack Developer & UI/UX Designer
 
-Here are some ideas to get you started:
+💻 Passionate about Web Development and UI/UX Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Java
+- JavaScript
+- React
+- Node.js
+- MongoDB
+
+🛠 Skills:
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
+- Figma
+
+📚 Projects:
+- E-Commerce Website
+- Portfolio Website
+- UI/UX Case Studies
+
+📫 Contact Me:
+- Email: your-email@gmail.com
+- LinkedIn: Your LinkedIn Link
+
+---
+⭐ Thanks for visiting my profile!
