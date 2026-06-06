@@ -23,7 +23,7 @@
 - 💻 Passionate about Web Development
 - 🌱 Currently learning React, Node.js and MongoDB
 - 🔍 Looking for Internship Opportunities
-- 📍 Pune, Maharashtra, India
+- 📍 Nagpur, Maharashtra, India
 
 ---
 
